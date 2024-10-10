@@ -1,5 +1,4 @@
 function Home() {
-  return <h1>Hello there Guerlak</h1>;
+  return <h1>Project Developer Home Page</h1>;
 }
-
 export default Home;
